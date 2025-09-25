@@ -31,7 +31,7 @@ This resource includes the {{% resource_link "7ff0f624-4e8a-fa08-d88c-20a9084cb1
 
 {{< quote "We need to talk about climate change in a way that's relevant to the intended audience." "— Brandon Leshchinskiy" >}}
 
-In the pages linked below, which present insights from interview recordings for an episode of OCW’s {{% resource_link "86bb4432-1069-4d8a-a25d-0c49f6b46444" "Chalk Radio" %}} podcast, Brandon Leshchinskiy and Prof. Dava Newman describe various aspects of how they created EarthDNA and the Climate 101 presentation.
+In the pages linked below, which present insights from interview recordings for an episode of OCW’s [Chalk Radio](https://chalk-radio.simplecast.com/) podcast, Brandon Leshchinskiy and Prof. Dava Newman describe various aspects of how they created EarthDNA and the Climate 101 presentation.
 
 - {{% resource_link "6e733e51-829f-91dc-1101-2ac3e4dae658" "What is EarthDNA?" %}}
 - {{% resource_link "29a54a06-8d87-e6d9-fac9-baa8672ba778" "Crafting the Climate 101 Presentation" %}}

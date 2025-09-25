@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 56d6c6ea-7070-be0c-bd12-d023a2fa651c
+  name: Videos
+  pageRef: /pages/videos
+  weight: 10
+- identifier: 4495d688-1345-8cf2-5d73-d0ea29e59b35
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/instructor-insights
+  weight: 20
+- identifier: 6e733e51-829f-91dc-1101-2ac3e4dae658
+  name: What is EarthDNA?
+  pageRef: /pages/instructor-insights/what-is-earthdna
+  parent: 4495d688-1345-8cf2-5d73-d0ea29e59b35
+  weight: 30
+- identifier: 29a54a06-8d87-e6d9-fac9-baa8672ba778
+  name: Crafting the Climate 101 Presentation
+  pageRef: /pages/instructor-insights/crafting-the-climate-101-presentation
+  parent: 4495d688-1345-8cf2-5d73-d0ea29e59b35
+  weight: 40
+- identifier: 7ec5b24d-b985-f976-9714-7de2a7f9d50b
+  name: Who Is the Audience?
+  pageRef: /pages/instructor-insights/who-is-the-audience
+  parent: 4495d688-1345-8cf2-5d73-d0ea29e59b35
+  weight: 50
+- identifier: adf55eb2-1085-a6e8-1cda-c0b8ae5915f2
+  name: Presentation, Application, and Related Files
+  pageRef: /pages/presentation-application-and-related-files
+  weight: 60
+- identifier: 20012753-6e15-4faa-fca6-19b8cb0c820d
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
