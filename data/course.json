@@ -29,7 +29,7 @@
     "website": "res-env-003-earthdnas-climate-101-fall-2019"
   },
   "course_title": "EarthDNA's Climate 101",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "The Climate 101 presentation was developed by Brandon Leshchinskiy in collaboration with Professor Dava Newman, MIT Portugal, and EarthDNA in an effort to mobilize young people as educators on the issue of climate change. The presentation addresses not only the science but also the\u00a0economics and civics of climate change, incorporating\u00a0a negotiation activity that brings key concepts to life.\n\nThis resource includes the slides and instructions for the presentation, along with an introductory video from Prof. Newman, a video of Leshchinskiy actually delivering the presentation to a classroom full of students, and extensive supporting materials that will help users to become climate ambassadors and deliver the Climate 101 presentation themselves.\n",
   "department_numbers": [],
@@ -39,6 +39,7 @@
     "content": "f174c60f-dfd9-7c92-7c57-99dbbed7f7e7",
     "website": "res-env-003-earthdnas-climate-101-fall-2019"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Other Video",
     "Instructor Insights",

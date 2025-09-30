@@ -2,6 +2,8 @@
 content_type: page
 description: In this section, Prof. Dava Newman discusses EarthDNA, the organization
   that developed the Climate 101 presentation.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

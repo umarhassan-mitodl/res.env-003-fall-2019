@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-env-003-earthdnas-climate-101-fall-2019/4fe3b7740b2f3a8d50b234757ea4ae86_teaching.jpg
 file_size: 86048
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
