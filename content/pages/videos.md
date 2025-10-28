@@ -29,20 +29,20 @@ The videos embedded below, which are excluded from our Creative Commons license,
 
 ### 3 Seconds
 
-Prince Ea, "[3 Seconds](https://www.youtube.com/watch?v=B-nEYsyRlYo&t=39s)" from National Geographic on YouTube.
+Prince Ea, "{{% resource_link "fc5560cb-2f92-469e-8e12-b9eae684e6d6" "3 Seconds" %}}" from National Geographic on YouTube.
 
 ### _The Last Northern White Rhinos_
 
-"[The Last Northern White Rhinos](https://www.youtube.com/watch?v=x3gRU_SAN18)" from National Geographic on YouTube.
+"{{% resource_link "38e72864-7e90-4064-a920-7e8235c20601" "The Last Northern White Rhinos" %}}" from National Geographic on YouTube.
 
 ### Climate Denial in the Classroom
 
-"[Climate Denial in the Classroom](https://www.youtube.com/watch?v=HXoAz6jNEG8)" from The YEARS Project on YouTube.
+"{{% resource_link "dbd85360-5448-450d-84ae-09acb54cff1a" "Climate Denial in the Classroom" %}}" from The YEARS Project on YouTube.
 
 ### _#naturenow_
 
-"[#naturenow](https://www.youtube.com/watch?v=-S14SjemfAg)" from Natural Climate Solutions on YouTube. Copyright CC BY-NC-ND.
+"{{% resource_link "857e00d8-c1f9-4649-bfc5-b203597cea48" "#naturenow" %}}" from Natural Climate Solutions on YouTube. Copyright CC BY-NC-ND.
 
 ### _Heaven - Mike Massimino | One Strange Rock_
 
-"[Heaven - Mike Massimino](https://www.youtube.com/watch?v=ZItiZSSnKAE)" from Inspirations365 on YouTube.
+"{{% resource_link "3c3f26de-78cb-41e8-a20c-2f9ace2a89fc" "Heaven - Mike Massimino" %}}" from Inspirations365 on YouTube.

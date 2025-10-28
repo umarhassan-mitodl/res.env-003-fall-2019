@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Prof. Dava Newman discusses EarthDNA, the organization
   that developed the Climate 101 presentation.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -14,13 +12,13 @@ title: What is EarthDNA?
 uid: 6e733e51-829f-91dc-1101-2ac3e4dae658
 ---
 
-_In this section, Prof. Dava Newman discusses_ [_EarthDNA_](https://earthdna.org/)_, the organization that developed the Climate 101 presentation_.
+_In this section, Prof. Dava Newman discusses_ {{% resource_link "1f7797c5-332a-4097-a28c-27071f4b1966" "_EarthDNA_" %}}_, the organization that developed the Climate 101 presentation_.
 
 EarthDNA is a nonprofit organization that my partner Guillermo Trotti and I started last year. We’re committed to furthering climate research, and the research at MIT, but we also decided we want to put our personal time and resources into spinning off a nonprofit, because we want to accelerate any positive change we can.
 
 {{< resource 4ece37a0-9bd0-ccb1-31df-4a6ffd7fe96f >}}
 
-Spaceship Earth, as captured by NASA. (Image courtesy of [Nasamarshall](https://flickr.com/photos/nasamarshall/32047071090/in/photolist-QPTBJs-B8kHmM-Rc6gJj-q62zgD-R3sFjf-oN3xdH-RkTeeQ-oMroEb-2gCbuZa-w7BtTP-CXMdGp-MMZDtA-Ngoj3T-v7Lhm1-2iMVLSL-QriYc1-2bkJCXF-2iRjCm8-2i4LDgU-2ijKPzD-2iKnLzd-2hfgZna-2iEtGTc-bfHstP-xKgfwu-2iYAkQQ-2iDSeBa-RBWv9Y-9pzSDn-2ioFfdL-2iBGPm9-JtiLU7-ak8Nkt-2harAvq-rGGyqa-2iVfYdt-LgGh31-2hNpqQo-PbT4DA-MjJtcy-8Ueo9G-2hoa2na-2gCkJ6C-2gLZGS1-2goFm3h-2hTqEn1-EZ5SrC-TLAFQ9-2gCWZTD-2h9Y9VA) on Flickr.)
+Spaceship Earth, as captured by NASA. (Image courtesy of {{% resource_link "3bed7d46-bdcf-4b48-b64c-469e1dc9fdf1" "Nasamarshall" %}} on Flickr.)
 
 We envision EarthDNA as a platform for climate advocacy and action. It starts with knowledge and education. I've been an educator my whole life, so I know it starts with the educational piece. The information piece involves curating literally petabytes of data from our satellites. Our satellites are orbiting the Earth every 90 minutes; we have so much data it gets overwhelming even for me as an engineer and scientist.
 

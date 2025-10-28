@@ -19,7 +19,7 @@ Ambassador Program Application
 
 This is a link to the application form for EarthDNA's leadership development program:
 
-*   [EarthDNA Ambassador Application](https://docs.google.com/forms/d/e/1FAIpQLSfduTbn5-XyCu6hpsZzK1E31vgJs8XnpSa8poccsCxKVTxLqw/viewform)
+*   {{% resource_link "7f20939d-0d18-441d-a333-51996bda196a" "EarthDNA Ambassador Application" %}}
 
 Handouts
 --------

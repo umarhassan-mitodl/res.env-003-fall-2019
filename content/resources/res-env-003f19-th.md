@@ -4,13 +4,11 @@ description: ''
 file: /courses/res-env-003-earthdnas-climate-101-fall-2019/f174c60fdfd97c927c5799dbbed7f7e7_res-env-003f19-th.jpg
 file_size: 5482
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Venice and other coastal cities have experienced more frequent and severe
     floods in recent years, a trend attributable to human-induced climate change.
-    (Photo courtesy of [Roberto Trombetta](https://www.flickr.com/photos/massimo_riserbo/49291566511/)
-    on Flickr. License CC BY-NC.)
+    (Photo courtesy of {{% resource_link "c314f5e5-ea08-43fc-939c-bea675421224" "Roberto
+    Trombetta" %}} on Flickr. License CC BY-NC.)
   credit: Photo courtesy of Roberto Trombetta on Flickr. License CC BY.
   image-alt: Buildings and monuments reflected in flood waters.
 learning_resource_types: []
